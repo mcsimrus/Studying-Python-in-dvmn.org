@@ -1,5 +1,5 @@
-# Studying-Python-in-dvmn.org
-My Python projects in dvmn.org
+# Studying-Python-at-dvmn.org
+My Python projects at dvmn.org
 
 This repository is loaded with my python projects at dvmn.org
 
